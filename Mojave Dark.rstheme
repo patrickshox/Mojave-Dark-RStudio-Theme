@@ -121,9 +121,9 @@ textarea.GD15MCFCFVC.GD15MCFCFVC-readonly {
   background: none !important;
 }
 
-/* color behind window panes */
-div#rstudio_container {
-  background: rgb(30,30,30);
+/* color behind window panes and latter two appear as bg of git commit pane */
+div#rstudio_container, .gwt-SplitLayoutPanel-HDragger, .gwt-SplitLayoutPanel-VDragger {
+  background: rgb(30,30,30) !important;
 }
 
 /* actual checkMARK */
@@ -148,9 +148,14 @@ table.GD15MCFCBMB {
 }
 
 /* active tabs*/
-.rstudio-themes-flat .rstudio-themes-dark-grey .rstudio-themes-background, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_toolbarWrapper, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelTabs .gwt-TabLayoutPanelTab-selected table.rstheme_tabLayoutCenter, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_secondaryToolbar, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCKV.GD15MCFCPO div.GD15MCFCMO .GD15MCFCIS, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelContent, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanel {
+.rstudio-themes-flat .rstudio-themes-dark-grey .rstudio-themes-background, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_toolbarWrapper, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelTabs .gwt-TabLayoutPanelTab-selected table.rstheme_tabLayoutCenter, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_secondaryToolbar, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCKV.GD15MCFCPO div.GD15MCFCMO .GD15MCFCIS, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelContent, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanel, .GD15MCFCCTC  {
   background: rgb(49,50,51) !important;
   color: white !important;
+}
+
+/*button labels in Git commit page*/
+.GD15MCFCMU {
+  color: white;
 }
 
 .rstudio-themes-flat .gwt-TabLayoutPanelTabs table.rstheme_tabLayoutCenter, .rstudio-themes-flat .rstheme_minimizedWindowObject table.rstheme_tabLayoutCenter {
@@ -217,10 +222,15 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
 }
 
 /* Search panes */
-.rstudio-themes-flat.rstudio-themes-dark-menus .search, .rstudio-themes-flat .rstudio-themes-dark .search, .dialogMiddleCenter .search {
+.rstudio-themes-flat.rstudio-themes-dark-menus .search, .rstudio-themes-flat .rstudio-themes-dark .search, .dialogMiddleCenter .search, input {
     border-radius: 4px;
     background: rgb(56, 56, 56);
     border-color: rgb(69,69,71);
+}
+
+/*seach bar in git commit no idea why its three separate images*/
+.GD15MCFCLS, .rstheme_center, .GD15MCFCAR {
+    filter: invert(75%);
 }
 
 /* Search panes placeholder text */
@@ -313,6 +323,104 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
   background: rgb(49,51,51)
 }
 
+/*Review Changes Dialog for Git Commit*/
+.GD15MCFCDTC, .GD15MCFCASC {
+  background: rgb(33, 35, 38);
+  color: white;
+}
+
+.GD15MCFCPSC {
+  background: rgb(30,30,30)
+}
+
+/*Git top left buttons*/
+table.GD15MCFCJW.GD15MCFCLW td, table.GD15MCFCJW.GD15MCFCOW {
+  color: black;
+  filter: invert(85%) !important;
+}
+
+/*checkboxes in GitHub pane why they make them from images idk*/
+img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAABzElEQVR42u2Wy07CQBhGeRl3iF2Bz+DaRE0UNsYn0Z2vIE+hxLglMZq4IwYpV4G23JGrLS7GOTWsDEzbNMZFJ/l3c843l6bzx2L/aWhaaiehJTPxRPIysZe6DlIuKx24PIXuaqmDw+Ozm9u7e71QeHVKpbIIUrA4cOFU7vToJJOVkK3rFVEu/1SlUvVVaw4HLpxbd87R5HIPOlC1WhO1Wl3U6w23Go13T7WeD4sDF07cG4O5l2LxzQFC0my2RKvVFu22Icv0WIbLwOLAJZ2ruLZ/tXnH8qNgtUBITLMjOp2e6Hb7otcbeCrmwsDiwIUT99ZgJhqG5cL9/lAMh2MxGn2I8XjiqZgLA4sDF05lMKsEGAxGrmgymYnpdC5ms4WnYi4MLA5cOJXBHBGrBUQyny/FYvEplkvbUzEXBhYHLpzKYFbIUbFqBMhse+WrYGBx4MKpDObj4J5YMatH5DhfvgoGFgcunMpgvkyOiPta7zZIMCwOXDij4Cg4Cv6bYJ5F+V91wg42TUvxLMrHOp9/1MMOxrm1EaA9SacvspbVtcP6ZeLCqWz6aMxO0+fZp+cXdu4EfSRgceBSNnu/2lt5L4HbW1g/7W00ohHW+AYpkWmxvX/prAAAAABJRU5ErkJggg=="] {
+  filter: invert(85%) !important;
+}
+
+img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAEg0lEQVR42rWX709bZRTHL+0ttPcHLaWlUGAo2xCcZBPLpT9oewvr2lD1hcYfM+oL4huTaZA44ohbeON/sZf60pAt0QWcvtBka4BtMVkklFJaKMighTF+rNPkXp9zeS67Y6XcNrPJt23S55zPOc9z7nNOCWL/9YbO3tJiMdceO0Wb7UFDpe28nrX261jLZzrW3K9K1J70yIY12/urbI3na46dDJ549fSp+tbWagTREQdeZTabjW5re73J2X2W9/iDw13u3lHOxUcdXb4ppEkHh9R1iLgDQjZdrkDU7T076g2Ehh3I58vIt91up4C1D4VIDIbqeoB++HH/1YGBofj4+K+5WGxWSCZT4lGan09KSiTmxbm5hDg7Gxfv358WbtwYz1348ut45O0Prp5xdPPAUGatQTKUlzOv+XrC3wxduhxHxkI6vSSm08sqtSQuLqbFhYVFKRAIIB6fE2MxCOAv4fMLg3Gnp3eYpqvaEYvCTEKLVEmQBpfLF/zx9z9uPV5ZWRUfPFgTV1czqgRrwWZ5eUUKBAKAHZDhP/08lvN4g9dM1jofQZhMctbwVkWSeh5FdXtp6W8hm90Q19cfihsbm6oEa8FmbS0rBYB8SHDIXN52tzc4Udd4IsQwjBXx9AAuRzIjcA/n6pkCR5ubW+KjR9vi1taOKsFasAHbTGZdNFwckzJPpRakM4esPb5z9xqa2/poq7WWQIW8DyZIfYBzBSbByfb2rriz81jc3c2pEqwFG7AFKAi2XZm1xx+629TcFqEsFjthsbAArlCCwQE4y+X+KUpgI0NBsOVQcHDWT8EnI3uVba58DgzRg6MnT/4tSkooCAoOql0uMgDXN8lg4llwJwLL2SodFgsFQbXDOcPj9TzYrA5cCJ4PCkX2wsD54PmgUOUvHKyE54OC7f8GPkxyZZcE5vKA1cBhTXHgA1XNufODC8Hl348Ce/lCGRcAFzpvNWAfH5Zurrxg1PwLggs9XmoyPgzcg7rT1FHgw3R0xqF7sNUURdkR7+ldTeqZgMsbjCIjoVQwXLfQKKBNKq/M6ekZwesLTljrXgoTBF2LeLQMriL1bDff2zd65+6fuVKbBDQYaI/Qm5VNYmzsZs7nD19nTBY/Yllg4pHbIkvTpjOhyLtXLl/5LpnNPhRKbYuwzTAQyG1xZiYmDF78NoXGqhGKMnbgRwmSJUiIwGisafb4wn3vvP/J918NXkrduj2Zy2Q2hFIGAcg2kUgKv9z8LffFwFDqvY8+/QFNnBGj0Xgcz1w6eeYqZ5haa0Nza3vrae5Nzs2PdDr91zo4bxTG1Y5O70QxkkZcpy+KJprraHId6XD630Ku24GBsyVlMPpiZWiatlWwbAvaEgfDmHjaaA7SleaQ9KlGtHFP2IYxmXjKaHSwrOUVuqbGRlitDM5WK4+3GnzWBnwGMPVD9cH11ojUgD/VSF5bj31UY58GzNDK420ZFs5c+rECnwWNnzkWG6uRvJ7GPiqwTxIzypT/JpQBaBSBaPHWlCKtAqTJB8wH1igMSSy1QFKRnVbh7xnwf9zVX4gKU481AAAAAElFTkSuQmCC"] {
+  filter: invert(85%) grayscale(100%) !important;
+}
+
+img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAUCAYAAACnOeyiAAAAXklEQVR42mNgAIL///8zMYSGhjIDGYIMIiIMvECGMwMDN4M4kFEDUqIIZKwDMdSBjAsghj6Q8QPEMAAy/lOBoQekv4AYKkDGfgZeXl4RICOLQUtLiw3IUAJJMQIZ7AC2tU2tXJxOYgAAAABJRU5ErkJggg=="] {
+  filter: invert(100%)
+}
+
+label[for="gwt-uid-54"]{
+  color: white;
+}
+
+/*Git popup*/
+.popupMiddleCenterInner.popupContent {
+  background-color: rgba(33, 35, 38, .5);
+  color: white;
+  border-radius: 3px 3px 3px 3px !important;
+}
+
+.gwt-MenuBar>table {
+    padding: 5px;
+    border-radius: 3px 3px 3px 3px !important;
+}
+
+.gwt-MenuBar>table>img {
+    visibility: hidden !important;
+}
+
+.popupTop, .popupMiddleRight, .popupBottom, .popupMiddleLeft {
+  visibility: hidden;
+}
+
+.gwt-MenuItem-selected, .subMenuIcon-selected, .gwt-SuggestBoxPopup .item-selected {
+  background: rgb(86, 126, 197) !important;
+}
+
+.GD15MCFCEMC:focus .GD15MCFCPLC {
+  background: rgb(18, 95, 189) !important;
+}
+
+/*table head at git*/
+.GD15MCFCDTC thead th, .GD15MCFCASC thead th, .GD15MCFCEMC thead th {
+    color: white;
+    border: none !important;
+    border-top: rgb(75,75,75) !important;
+    border-bottom: rgb(75,75,75);
+    background: rgb(49,49,51) !important;
+    outline: none;
+}
+
+tr.GD15MCFCPLC {
+    background-color: rgb(64,62,63)
+}
+
+/*table at Git*/
+td.GD15MCFCHNC.GD15MCFCJNC, .GD15MCFCJOC {
+  border: none !important;
+  border-bottom: 1px solid black !important;
+}
+
+
+.GD15MCFCFTC.GD15MCFCAW, .GD15MCFCMTC {
+  background: rgb(48,48,48);
+  border: 1px solid rgb(103,101,103);
+  border-radius: 0px;
+  color: white;
+}
+
+.GD15MCFCGPC {
+  background: #bdeca4bd;
+  color: rgb(33,35,38);
+}
+/* commit button*/
+button.gwt-Button.GD15MCFCH1.GD15MCFCETC {
+    filter: invert(90%);
+}
+
 .dialogMiddleCenter {
   background: rgb(55,57,58) !important;
   color: white;
@@ -367,9 +475,14 @@ table.GD15MCFCFK.GD15MCFCLJ, .GD15MCFCJ2.GD15MCFCNQ.GD15MCFCE2 {
     border-radius: 3px;
 }
 
+.GD15MCFCEPC {
+  background: rgb(46,48,51);
+  color: white;
+}
+
 
 /*selected button at top of options dialog*/
-.gwt-TabLayoutPanelTab.GD15MCFCH.gwt-TabLayoutPanelTab-selected {
+.gwt-TabLayoutPanelTab.GD15MCFCH.gwt-TabLayoutPanelTab-selected, table.GD15MCFCJW.GD15MCFCLW {
     background: linear-gradient(0deg, rgba(60,60,60,1) 0%, rgba(55,55,55,1) 100%) !important;
     color: white !important;
     border-color: rgba(96,96,97) !important;
