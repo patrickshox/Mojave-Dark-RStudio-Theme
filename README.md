@@ -11,8 +11,13 @@ Plot (white to alpha)             |  Markdown (invert colors)
 ### An Xcode-inspired debugger:
 ![](DebugStyles.png)
 
-### And Dark styles across the entire IDE, not just the editor:
+### Dark styles across the entire IDE, not just the editor:
 ![](DarkEverywhere.png)
+
+### Code coloring inspired by Xcode
+Xcode              |  Mojave Dark
+:-------------------------:|:-------------------------:
+![](Xcode Fonts And Colors Screenshot.png)  |  ![](Mojave Dark Fonts and Colors.png)
 
 ## Installation
 Enter the following into the RStudio console.
