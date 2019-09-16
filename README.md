@@ -14,7 +14,7 @@ Plot (white to alpha)             |  Markdown (invert colors)
 ### Dark styles across the entire IDE, not just the editor:
 ![](DarkEverywhere.png)
 
-### Code coloring inspired by Xcode
+### Code coloring inspired by Xcode:
 
 Mojave Dark              |  Xcode
 :-------------------------:|:-------------------------:
