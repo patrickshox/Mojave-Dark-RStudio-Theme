@@ -4,7 +4,7 @@
 
 ### Dynamic darkening of plots and markdown:
 
-Plot             |  Markdown
+Plot (white to alpha)             |  Markdown (invert colors)
 :-------------------------:|:-------------------------:
 ![](PlotsWhiteTransparencyDemo.gif)  |  ![](MarkdownColorInversionDemo.gif)
 
