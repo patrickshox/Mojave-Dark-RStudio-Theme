@@ -18,7 +18,7 @@ Plot (white to alpha)             |  Markdown (invert colors)
 
 Mojave Dark              |  Xcode
 :-------------------------:|:-------------------------:
-<img src="Mojave Dark Fonts and Colors.png">  |  <img src="Xcode Fonts And Colors Screenshot.png"> 
+<img src="Mojave Dark Fonts and Colors.png">  |  <img src="Xcode Fonts And Colors Screenshot.png" height="80%"> 
 
 ## Installation
 Run the snippet in the RStudio console to install and apply Mojave Dark.
