@@ -15,6 +15,8 @@ Plot             |  Markdown
 ![](DarkEverywhere.png)
 
 ## Installation
+Enter the following into the RStudio console.
 ```
 rstudioapi::addTheme("https://raw.githubusercontent.com/patrickshox/Mojave-Dark-RStudio-Theme/master/Mojave%20Dark.rstheme", apply=TRUE, force=TRUE, global=TRUE)
 ```
+The parameter force=TRUE will delete any other themes named "Mojave Dark" and the parameter global=TRUE will install the theme for all users.
