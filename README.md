@@ -4,10 +4,6 @@
 
 ### Dynamic darkening of plots and markdown:
 
-               Plots                 |                Markdown
-:-----------------------------------:|:------------------------------------:
-![](PlotsWhiteTransparencyDemo.gif)  |  ![](MarkdownColorInversionDemo.gif)
-
 Plot             |  Markdown
 :-------------------------:|:-------------------------:
 ![](PlotsWhiteTransparencyDemo.gif)  |  ![](MarkdownColorInversionDemo.gif)
