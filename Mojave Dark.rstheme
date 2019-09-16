@@ -1169,3 +1169,12 @@ div .gwt-Label.GD15MCFCF3 {
     color: black !important;
 }
 
+pre#rstudio_console_output .ace_keyword {
+  color: rgb(104, 186, 253) !important;
+}
+
+pre#rstudio_console_output .ace_constant.ace_language {
+  color: rgb(104, 186, 253) !important;
+}
+
+
