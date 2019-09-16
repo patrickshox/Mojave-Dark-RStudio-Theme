@@ -1170,10 +1170,10 @@ div .gwt-Label.GD15MCFCF3 {
 }
 
 pre#rstudio_console_output .ace_keyword {
-  color: rgb(104, 186, 253) !important;
+  color: white !important;
 }
 
-pre#rstudio_console_output .ace_constant.ace_language {
+pre#rstudio_console_output span.ace_constant.ace_language {
   color: rgb(104, 186, 253) !important;
 }
 
