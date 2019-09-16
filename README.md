@@ -20,7 +20,7 @@ Xcode              |  Mojave Dark
 ![](Xcode Fonts And Colors Screenshot.png)  |  ![](Mojave Dark Fonts and Colors.png)
 
 ## Installation
-Enter the following into the RStudio console.
+Run the snippet in the RStudio console to install and apply Mojave Dark.
 ```
 rstudioapi::addTheme("https://raw.githubusercontent.com/patrickshox/Mojave-Dark-RStudio-Theme/master/Mojave%20Dark.rstheme", apply=TRUE, force=TRUE, global=TRUE)
 ```
