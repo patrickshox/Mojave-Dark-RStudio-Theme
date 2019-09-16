@@ -15,9 +15,9 @@ Plot (white to alpha)             |  Markdown (invert colors)
 ![](DarkEverywhere.png)
 
 ### Code coloring inspired by Xcode
-Xcode              |  Mojave Dark
+Mojave Dark              |  Xcode
 :-------------------------:|:-------------------------:
-![](Xcode Fonts And Colors Screenshot.png)  |  ![](Mojave Dark Fonts and Colors.png)
+![](Mojave Dark Fonts and Colors.png)  |  ![](Xcode Fonts And Colors Screenshot.png)
 
 ## Installation
 Run the snippet in the RStudio console to install and apply Mojave Dark.
