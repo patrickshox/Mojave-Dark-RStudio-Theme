@@ -25,4 +25,4 @@ In RStudio Preferences > Appearance, set the theme to Modern or Sky. Currently, 
 ```
 rstudioapi::addTheme("https://raw.githubusercontent.com/patrickshox/Mojave-Dark-RStudio-Theme/master/Mojave%20Dark.rstheme", apply=TRUE, force=TRUE, global=FALSE)
 ```
-The parameter `force=TRUE` will delete any other themes named "Mojave Dark" and the parameter `global=TRUE` will install the theme for all users.
+The parameter `force=TRUE` will delete any other themes named "Mojave Dark" and the parameter `globally=TRUE` will install the theme for all users.
