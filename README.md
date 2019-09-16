@@ -15,6 +15,7 @@ Plot (white to alpha)             |  Markdown (invert colors)
 ![](DarkEverywhere.png)
 
 ### Code coloring inspired by Xcode
+
 Mojave Dark              |  Xcode
 :-------------------------:|:-------------------------:
 ![](Mojave Dark Fonts and Colors.png)  |  ![](Xcode Fonts And Colors Screenshot.png)
