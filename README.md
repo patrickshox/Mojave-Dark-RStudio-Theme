@@ -8,6 +8,10 @@
 :-----------------------------------:|:------------------------------------:
 ![](PlotsWhiteTransparencyDemo.gif)  |  ![](MarkdownColorInversionDemo.gif)
 
+Plot             |  Markdown
+:-------------------------:|:-------------------------:
+![](PlotsWhiteTransparencyDemo.gif)  |  ![](MarkdownColorInversionDemo.gif)
+
 ### An Xcode-inspired debugger:
 ![](DebugStyles.png)
 
