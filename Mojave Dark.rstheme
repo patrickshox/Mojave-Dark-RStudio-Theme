@@ -21,6 +21,11 @@ div.ace_editor_theme:hover iframe#rstudio_plot_image_frame {
   mix-blend-mode: normal;
 }
 
+.GD15MCFCPFD {
+    border: none;
+    background-color: inherit;
+}
+
 /*Dropdown menus for the buttons on the home page ie not selects in settings*/
 .gwt-DecoratedPopupPanel.themedPopupPanel .popupMiddleCenter {
   background-color: rgb(59,59,59) !important;
@@ -352,7 +357,7 @@ table.GD15MCFCFK.GD15MCFCLJ, .GD15MCFCJ2.GD15MCFCNQ.GD15MCFCE2 {
   border-radius: 3px;
 }
 
-.GD15MCFCGP .gwt-TabLayoutPanelContentContainer {
+.GD15MCFCGP .gwt-TabLayoutPanelContentContainer, .GD15MCFCOID, .GD15MCFCNLD {
     background: rgb(37,39,40) !important;
     border: 1px solid rgb(92,93,94);
     border-radius: 3px;
