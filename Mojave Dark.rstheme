@@ -451,7 +451,7 @@ button.gwt-Button.GD15MCFCH1.GD15MCFCETC {
 select {
     font-size: 11px;
     text-indent: 0.1em;
-    background-color: rgb(92,93,94);
+    background-color: rgb(92,93,94) !important;
     color: white;
     border: none !important;
 }
