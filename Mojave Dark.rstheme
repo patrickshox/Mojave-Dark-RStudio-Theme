@@ -213,8 +213,8 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
 }
 
 .ace_cursor {
-  color: white;
-  width: 1px;
+  opacity: 1 !important;
+  border-left: 1px solid !important;
 }
 
 .ace_marker-layer .ace_selection {
