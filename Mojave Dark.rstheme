@@ -648,6 +648,10 @@ div .gwt-Label.GD15MCFCF3 {
 
 }
 
+span.ace_paren.ace_keyword.ace_operator {
+  color: #7F8C97 !important;
+}
+
 .ace_comment {
   font-style: italic;
   color: #7F8C97;
