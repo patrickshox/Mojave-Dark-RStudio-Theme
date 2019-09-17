@@ -65,13 +65,13 @@ div.ace_editor_theme:hover iframe#rstudio_plot_image_frame {
 }
 
 /*unchecked .gwt-CheckBox checkbox*/
-.macintosh input[type="checkbox"], .linux .gwt-CheckBox input[type="checkbox"] {
+.macintosh input[type="checkbox"], .linux .gwt-CheckBox input[type="checkbox"], .windows-highdpi .gwt-CheckBox input[type="checkbox"], .rstudio-themes-flat input[type="checkbox"] {
   background: linear-gradient(0deg, rgba(111,111,114,1) 0%, rgba(85,88,89,1) 100%) !important;
   border: none !important;
 }
 
 /*checked checkbox*/
-.macintosh input[type="checkbox"]:checked, .linux .gwt-CheckBox input[type="checkbox"]:checked{
+.macintosh input[type="checkbox"]:checked, .linux .gwt-CheckBox input[type="checkbox"]:checked, .windows-highdpi .gwt-CheckBox input[type="checkbox"]:checked, .rstudio-themes-flat input[type="checkbox"]:checked {
   background: linear-gradient(0deg, rgba(29,98,203,1) 0%, rgba(37,113,227,1) 100%) !important;
   border-color: rgb(33,35,36) !important;
 }
@@ -646,10 +646,6 @@ div .gwt-Label.GD15MCFCF3 {
 .ace_string {
   color: #FD8273;
 
-}
-
-span.ace_paren.ace_keyword.ace_operator {
-  color: #7F8C97 !important;
 }
 
 .ace_comment {
