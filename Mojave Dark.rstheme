@@ -229,7 +229,7 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
 }
 
 /*seach bar in git commit no idea why its three separate images*/
-.GD15MCFCLS, .rstheme_center, .GD15MCFCAR {
+.GD15MCFCCTC .search .GD15MCFCLS, .GD15MCFCCTC .search .rstheme_center, .GD15MCFCCTC .search .GD15MCFCAR {
     filter: invert(75%);
 }
 
