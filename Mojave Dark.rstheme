@@ -1281,6 +1281,10 @@ div .gwt-Label.GD15MCFCF3 {
   color: white;
 }
 
+.GD15MCFCOMC div {
+  background: rgb(35,35,35);
+}
+
 /*back arrow in new project pane an image so it can't be styled that easily.*/
 .GD15MCFCP2 {
     color: black !important;
