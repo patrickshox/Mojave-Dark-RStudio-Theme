@@ -448,7 +448,7 @@ button.gwt-Button.GD15MCFCH1.GD15MCFCETC {
     color: #ffffff;
 }
 
-.macintosh select {
+select {
     font-size: 11px;
     text-indent: 0.1em;
     background-color: rgb(92,93,94);
