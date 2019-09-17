@@ -1308,3 +1308,8 @@ div .gwt-Label.GD15MCFCF3 {
     color: black !important;
 }
 
+span.ace_paren.ace_keyword.ace_operator {
+  color: rgb(75,75,75) !important;
+  font-weight: bold;
+}
+
