@@ -32,3 +32,6 @@ First, download the [.rstheme file](https://drive.google.com/open?id=18A_Tb0vq4T
 
 ## Troubleshooting
 If you get the error message: `Error in value[[3L]](cond): Unable to add the theme file "/var/folders/tj/w1l6l2hj11l4kpyhv4r2p6gh0000gn/T//RtmpZTjGp2/Mojave Dark.rstheme". The specified theme, "Mojave Dark", already exists in the target location. Please delete the existing theme and try again.`, you should Go to the Folder (&#8984; &#8679; G) `~/.R/rstudio/themes` and delete the file "Mojave Dark.rstheme".
+
+If you get the error `Error in loadNamespace(name) : there is no package called ‘rstudioapi’`, run `install.packages("rstudioapi")`.
+
