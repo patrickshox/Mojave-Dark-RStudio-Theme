@@ -30,6 +30,7 @@ The parameter `force=TRUE` will delete any other themes named "Mojave Dark" and 
 <!---
 ### Manually:
 First, download the [.rstheme file](https://drive.google.com/open?id=18A_Tb0vq4T_gmFtcvGoXzIlaMoUJNmvJ) via Google Drive. Navigate to RStudio options (&#8984; ,), then select the "Appearance" tab in the sidebar. Press the "Add..." button to manually install the .rstheme file. Finally, apply the theme as you would any other.
+ADD  SCREENSHOT OF THE Git Commit PAGE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->
 
 ## Troubleshooting
