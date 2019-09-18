@@ -11,14 +11,6 @@
     border-radius: 3px;
 }
 
-/*autofill menu descriptions*/
-.GD15MCFCEVB {
-  background-color: rgb(53,53,53) !important;
-  color: white !important;
-  border-radius: 1px;
-  box-shadow: -1px 1px 3px 0px black;
-}
-
 .GD15MCFCEUB .ace_keyword {
     color: rgb(217,217,217); !important;
 }
@@ -553,7 +545,7 @@ iframe.gwt-Frame {
   border-radius: 3px 3px 0px 0px;
 }
 
-.gwt-Label {
+.GD15MCFCFK.gwt-Label, .gwt-TabLayoutPanelContentContainer td {
   color: white !important;
 }
 
@@ -586,7 +578,7 @@ div .gwt-Label.GD15MCFCF3 {
 }
 
 .dialogContent {
-  color: white;
+  color: white !important;
 }
 
 .ace_constant.ace_language {
@@ -1311,5 +1303,25 @@ div .gwt-Label.GD15MCFCF3 {
 span.ace_paren.ace_keyword.ace_operator {
   color: rgb(160,160,160) !important;
   font-weight: bold;
+}
+
+
+/*autofill menu descriptions*/
+.GD15MCFCEVB {
+  background-color: rgb(53,53,53) !important;
+  color: white !important;
+  box-shadow: -1px 1px 5px black;
+}
+
+.rstudio-themes-flat.rstudio-themes-dark-menus .GD15MCFCEVB, .rstudio-themes-flat.rstudio-themes-dark-menus .rstudio-themes-scrollbars.GD15MCFCEVB ::-webkit-scrollbar-thumb {
+  background-color: rgb(49,50,51) !important;
+  border-color: rgb(30,30,30) !important;
+  box-shadow: -1px 1px 5px black;
+  border-radius: 1px !important;
+  color: white !important;
+}
+
+.rstudio-themes-flat.rstudio-themes-dark-menus .rstudio-themes-scrollbars.GD15MCFCEVB ::-webkit-scrollbar-thumb {
+  background: rgb(35, 35, 35)
 }
 
