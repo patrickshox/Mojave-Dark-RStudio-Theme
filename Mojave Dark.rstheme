@@ -340,7 +340,8 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
 }
 
 .GD15MCFCPSC {
-  background: rgb(30,30,30)
+  background: rgb(30,30,30);
+  color: white;
 }
 
 /*Git top left buttons*/
@@ -422,10 +423,64 @@ td.GD15MCFCHNC.GD15MCFCJNC, .GD15MCFCJOC {
   color: white;
 }
 
+/* addition text*/
 .GD15MCFCGPC {
-  background: #bdeca4bd;
-  color: rgb(33,35,38);
+  color: rgb(61, 213, 83);
+  background-color: rgb(61, 213, 83, .21);
 }
+
+.GD15MCFCGE:focus .GD15MCFCBE .GD15MCFCFSC {
+  color: white;
+  background-color: rgb(61, 213, 83, 1);
+}
+
+.GD15MCFCKED {
+  border: 1px solid rgb(45,45,45);
+}
+
+.GD15MCFCGPC.GD15MCFCNPC>td, .GD15MCFCCPC.GD15MCFCNPC>td {
+  border-top: none !important;
+}
+
+/* deletion text */
+.GD15MCFCCPC {
+  color: rgb(234, 53, 123);
+  background-color: rgba(234, 53, 123, .21)
+}
+
+/* selected addition slash deletion which was clicked away from */
+.GD15MCFCKOC, .GD15MCFCLOC, .GD15MCFCBE { 
+  color: white;
+  background-color: rgb(76, 76, 76) !important;
+}
+
+/* selected addition slash deletion */
+.GD15MCFCPOC:focus .GD15MCFCKOC, .GD15MCFCPOC:focus .GD15MCFCLOC, .GD15MCFCGE:focus .GD15MCFCBE {
+  background-color: rgb(20, 107, 211) !important;
+}
+
+/* spacer between additions and deletions describing it */
+.GD15MCFCBPC {
+  background-color: rgb(50, 50, 50) !important;
+}
+
+/* stage buttons */
+.GD15MCFCKMC {
+  color: black !important;
+}
+
+.GD15MCFCKMC div {
+  filter: grayscale(1) invert(100%) brightness(90%);
+}
+
+.gwt-DialogBox.gwt-DialogBox-ModalDialog.GD15MCFCO- td.dialogMiddleLeft, .gwt-DialogBox.gwt-DialogBox-ModalDialog.GD15MCFCO- td.dialogMiddleRight, .gwt-DialogBox.gwt-DialogBox-ModalDialog.GD15MCFCO- tr.dialogBottom {
+  filter: invert(80%)
+}
+
+table.GD15MCFCPOC.GD15MCFCAW.GD15MCFCMPC button.gwt-Button.GD15MCFCH1.gwt-Button-DefaultDialogAction td {
+  filter: invert(85%)
+}
+
 /* commit button*/
 button.gwt-Button.GD15MCFCH1.GD15MCFCETC {
     filter: invert(90%);
@@ -549,8 +604,8 @@ iframe.gwt-Frame {
   color: white !important;
 }
 
-/*hyperlinks at the bottom of some of the settings and in R Help*/
-.rstudio-HyperlinkLabel, gwt-Anchor{
+/*hyperlinks at the bottom of some of the settings and in R Help and file links in commit page */
+.rstudio-HyperlinkLabel, gwt-Anchor, a.gwt-Anchor.GD15MCFCNQ {
   color: rgb(67,137,211) !important
 }
 
@@ -1321,7 +1376,29 @@ span.ace_paren.ace_keyword.ace_operator {
   color: white !important;
 }
 
+
+.GD15MCFCJRC {
+  background: rgb(30, 30, 30);
+  color: white; 
+}
+
+.GD15MCFCFSC, .GD15MCFCISC {
+  background: rgb(61, 213, 83, .2);
+  color: rgb(61, 213, 83);
+}
+
+.GD15MCFCGSC {
+  background-color: rgb(18, 101, 201);
+  color: white;
+}
+
+.GD15MCFCGE:focus .GD15MCFCBE .GD15MCFCGSC {
+  background-color: rgb(18, 101, 201);
+  color: white;
+  border: 1px solid rgba(255, 255, 255, .5);
+}
+
 .rstudio-themes-flat.rstudio-themes-dark-menus .rstudio-themes-scrollbars.GD15MCFCEVB ::-webkit-scrollbar-thumb {
-  background: rgb(35, 35, 35)
+  background: rgb(35, 35, 35);
 }
 
