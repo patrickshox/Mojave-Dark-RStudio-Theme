@@ -442,6 +442,10 @@ td.GD15MCFCHNC.GD15MCFCJNC, .GD15MCFCJOC {
   border-top: none !important;
 }
 
+.GD15MCFCCPC.GD15MCFCDPC>td {
+  border-bottom: none !important;
+}
+
 /* deletion text */
 .GD15MCFCCPC {
   color: rgb(234, 53, 123);
