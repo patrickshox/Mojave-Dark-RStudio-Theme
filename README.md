@@ -12,7 +12,7 @@ Plot (white to alpha)             |  Markdown (invert colors)
 ![](DebugStyles.png)
 
 ### Dark styles across the entire IDE, not just the editor:
-![](DarkEverywhere.png)
+![](DarkPanels.png)
 
 ### Code coloring inspired by Xcode:
 
