@@ -6,10 +6,10 @@
 
 Plot (white to alpha)             |  Markdown (invert colors)
 :-------------------------:|:-------------------------:
-![](../Demo Images and Gifs/PlotsWhiteTransparencyDemo.gif)  |  ![](../Demo Images and Gifs/MarkdownColorInversionDemo.gif)
+![](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/PlotsWhiteTransparencyDemo.gif)  |  ![](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/MarkdownColorInversionDemo.gif)
 
 ### An Xcode-inspired debugger:
-![](../Demo Images and Gifs/DebugStyles.png)
+![](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/DebugStyles.png)
 
 ### Dark styles across the entire IDE, not just the editor:
 ![](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/DarkPanels.png)
@@ -18,7 +18,7 @@ Plot (white to alpha)             |  Markdown (invert colors)
 
 Mojave Dark              |  Xcode
 :-------------------------:|:-------------------------:
-<img src="../Demo Images and Gifs/Mojave Dark Fonts and Colors.png">   |  <img src="../Demo Images and Gifs/Xcode Fonts and Colors.png"> 
+<img src="https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/Mojave%20Dark%20Fonts%20and%20Colors.png">   |  <img src="https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/Xcode%20Fonts%20and%20Colors.png"> 
 
 ## Installation Options
 ### Via the RStudio Console (Reccomended):
