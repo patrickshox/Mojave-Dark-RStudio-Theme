@@ -1,6 +1,6 @@
 # Mojave Dark: An RStudio Theme for Apple Lovers
 
-![](../Demo Images and Gifs/Main.png)
+![](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/Main.png)
 
 ### Dynamic darkening of plots and markdown:
 
