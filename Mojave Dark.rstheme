@@ -683,6 +683,7 @@ div .gwt-Label.GD15MCFCF3 {
 
 .ace_heading {
      color: rgb(103,183,249);
+     font-weight: 900;
 }
 
 .ace_meta.ace_tag {
