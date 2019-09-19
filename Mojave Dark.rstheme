@@ -1391,6 +1391,16 @@ span.ace_paren.ace_keyword.ace_operator {
   color: rgb(61, 213, 83);
 }
 
+/* file heirearchy in files tab */
+.GD15MCFCJI-filepane a.gwt-Anchor.GD15MCFCNQ {
+  color: white !important;
+}
+
+/* file heirearchy in files tab */
+.GD15MCFCJI-filepane a.gwt-Anchor.GD15MCFCNQ:hover {
+  text-decoration: underline;
+}
+
 .GD15MCFCGSC {
   background-color: rgb(18, 101, 201);
   color: white;
