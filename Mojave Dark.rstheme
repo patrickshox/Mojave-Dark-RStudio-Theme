@@ -1335,7 +1335,24 @@ div .gwt-Label.GD15MCFCF3 {
 }
 
 .ace_active-line {
-  background: rgb(47,50,57)
+  background: rgb(47,50,57);
+}
+
+/* your commit is ahead of master notification */
+.GD15MCFCB2C, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCB2C {
+  background-color: rgb(236,60,57) !important;
+}
+
+.GD15MCFCGMC, .GD15MCFCB2C {
+  border-bottom: none;
+}
+
+.GD15MCFCB2C .GD15MCFCA2C {
+  color: white;
+}
+
+img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAcCAYAAAAAwr0iAAABhElEQVR42u1Xu07DMBTtl/D6HCAOG4+fqBADbI4FEztfgKAjI4ldFiQWBhh5iAXaBQaGVkKlkJh7Y1UUROrr1FGF1CtdKWqSc45zn63VpuZgy1zNhFzthJFKWCRbLFI98C74DeMqxnvBbjJfCTEQHIN/Apm2eIrP4jteyBmXDAA7BOLf3g2EXB+PXMh6fqI/COoHF7r13NFoJ+cPRSKyUKjNUuShaK4iQNEJkXTYRnyJDLHcY26SqxB4v3Gl33ofOfn1/Ys1HE45EUTqiBJnDAMKoeWEbJDIF/fOZoviPqaniG0/vZDbNrDD5FbfPb3+cIoIxCaUnYopYPLykZqE3w7YFAFtCphDFQwLaNsFmPZajYBIvf8DAZMOgZl0lQmIvZRhWQGkMlzhp3OURlRCQIrYtCkIbdO/AGIrpgwj7ISDQTQwHEg4G7wMI/MVmmujxrGDZ4jlfSEhkwu5NbGVDEp6w99SahIzJS2l8Ky3pbRwLTcds587XONveG+Jq4XpHxgX+wK4hvG+aF4/hAAAAABJRU5ErkJggg=="] {
+  filter: grayscale(1) contrast(9);
 }
 
 /*borders in save current workspace*/
