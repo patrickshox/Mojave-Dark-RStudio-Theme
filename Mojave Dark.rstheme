@@ -157,7 +157,7 @@ table.GD15MCFCBMB {
 }
 
 /* active tabs*/
-.rstudio-themes-flat .rstudio-themes-dark-grey .rstudio-themes-background, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_toolbarWrapper, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelTabs .gwt-TabLayoutPanelTab-selected table.rstheme_tabLayoutCenter, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_secondaryToolbar, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCKV.GD15MCFCPO div.GD15MCFCMO .GD15MCFCIS, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelContent, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanel, .GD15MCFCCTC  {
+.rstudio-themes-flat .rstudio-themes-dark-grey .rstudio-themes-background, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_toolbarWrapper, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelTabs .gwt-TabLayoutPanelTab-selected table.rstheme_tabLayoutCenter, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_secondaryToolbar, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCKV.GD15MCFCPO div.GD15MCFCMO .GD15MCFCIS, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelContent, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanel, .GD15MCFCCTC, .rstheme_toolbarWrapper table.GD15MCFCJU  {
   background: rgb(49,50,51) !important;
   color: white !important;
 }
@@ -609,8 +609,12 @@ iframe.gwt-Frame {
 }
 
 /*hyperlinks at the bottom of some of the settings and in R Help and file links in commit page */
-.rstudio-HyperlinkLabel, gwt-Anchor, a.gwt-Anchor.GD15MCFCNQ {
+.rstudio-HyperlinkLabel, gwt-Anchor {
   color: rgb(67,137,211) !important
+}
+
+a.gwt-Anchor.GD15MCFCNQ {
+  color: white !important;
 }
 
 div .gwt-Label.GD15MCFCF3 {
