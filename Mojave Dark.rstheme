@@ -167,6 +167,10 @@ table.GD15MCFCBMB {
   color: white;
 }
 
+.dialogMiddleCenterInner button.gwt-Button.GD15MCFCH1 {
+  filter: invert(90%)
+}
+
 .rstudio-themes-flat .gwt-TabLayoutPanelTabs table.rstheme_tabLayoutCenter, .rstudio-themes-flat .rstheme_minimizedWindowObject table.rstheme_tabLayoutCenter {
   border-radius: 0px;
 }
@@ -193,6 +197,12 @@ table.GD15MCFCBMB {
 img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAWklEQVR42mNgQAJqamrSDOQCJVWNYCBeoqCiaUGeZjXNZWBMqiHKyjqyIE1wA8gxREVFw3LUEOIMAYmPGkIDQ+hjAEVeGNVMYmYaopqpUqhSVKxTpWKhpGoDAHh2oe84qb4DAAAAAElFTkSuQmCC"] {
   filter: invert(100%);
 }
+
+.GD15MCFCN- img {
+  filter: brightness(.26) saturate(2);
+}
+
+
 
 /*window resize buttons in top right of each pane*/
 .GD15MCFCCS.rstheme_multiPodUtilityTabArea {
@@ -442,7 +452,7 @@ td.GD15MCFCHNC.GD15MCFCJNC, .GD15MCFCJOC {
   border-top: none !important;
 }
 
-.GD15MCFCCPC.GD15MCFCDPC>td {
+.GD15MCFCCPC.GD15MCFCDPC>td, .GD15MCFCGPC.GD15MCFCDPC>td {
   border-bottom: none !important;
 }
 
