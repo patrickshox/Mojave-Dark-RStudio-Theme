@@ -1,24 +1,24 @@
 # Mojave Dark: An RStudio Theme for Apple Lovers
 
-![](Main.png)
+![](Demo Images and Gifs/Main.png)
 
 ### Dynamic darkening of plots and markdown:
 
 Plot (white to alpha)             |  Markdown (invert colors)
 :-------------------------:|:-------------------------:
-![](PlotsWhiteTransparencyDemo.gif)  |  ![](MarkdownColorInversionDemo.gif)
+![](Demo Images and Gifs/PlotsWhiteTransparencyDemo.gif)  |  ![](Demo Images and Gifs/MarkdownColorInversionDemo.gif)
 
 ### An Xcode-inspired debugger:
-![](DebugStyles.png)
+![](Demo Images and Gifs/DebugStyles.png)
 
 ### Dark styles across the entire IDE, not just the editor:
-![](DarkPanels.png)
+![](Demo Images and Gifs/DarkPanels.png)
 
 ### Code coloring inspired by Xcode:
 
 Mojave Dark              |  Xcode
 :-------------------------:|:-------------------------:
-<img src="Mojave Dark Fonts and Colors.png">   |  <img src="Xcode Fonts and Colors.png"> 
+<img src="Demo Images and Gifs/Mojave Dark Fonts and Colors.png">   |  <img src="Demo Images and Gifs/Xcode Fonts and Colors.png"> 
 
 ## Installation Options
 ### Via the RStudio Console (Reccomended):
