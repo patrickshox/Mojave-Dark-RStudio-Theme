@@ -12,8 +12,7 @@ Plot (white to alpha)             |  Markdown (invert colors)
 ![](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/DebugStyles.png)
 
 ### Dark styles across the entire IDE, not just the editor:
-<div class="box-shadow-large p-3">
-<img src="https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/DarkPanels.png" class="box-shadow-large p-3"> </div>
+<img src="https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/DarkPanels.png" class="box-shadow-large p-3">
 
 ### Code coloring inspired by Xcode:
 
