@@ -25,6 +25,7 @@ Mojave Dark              |  Xcode
 In RStudio Preferences > Appearance, **set the theme to Modern or Sky**. Currently, Mojave Dark doesn't work when the RStudio theme is set to Classic. Then, run the snippet in the RStudio console to install and apply Mojave Dark.
 ```
 rstudioapi::addTheme("https://raw.githubusercontent.com/patrickshox/Mojave-Dark-RStudio-Theme/master/Mojave%20Dark.rstheme", apply=TRUE, force=TRUE)
+rstudioapi::addTheme("https://raw.githubusercontent.com/patrickshox/Mojave-Dark-RStudio-Theme/master/Mojave%20Dark%20(Static).rstheme", apply=TRUE, force=TRUE)
 ```
 The parameter `force=TRUE` will delete any other themes named "Mojave Dark" and the parameter `globally=TRUE` will install the theme for all users.
 
@@ -41,4 +42,3 @@ Go to the Folder (&#8984; &#8679; G) `~/.R/rstudio/themes` and delete the file "
 - `Error in loadNamespace(name) : there is no package called ‘rstudioapi’`
 
 Run `install.packages("rstudioapi")`. Then retry installing Mojave Dark. 
-
