@@ -1460,3 +1460,32 @@ span.ace_paren.ace_keyword.ace_operator {
   background: rgb(35, 35, 35);
 }
 
+/* previous 6 selectors found by rscodeio by Mr. Anthony North and adapted by Rui */
+/* scrollbars */
+::-webkit-scrollbar {
+  height: calc(17px * 10 / 14) !important;
+}
+::-webkit-scrollbar-thumb {
+  border: none !important;
+  border-radius: 0 !important;
+  background-color: rgba(121, 121, 121, 0.18) !important;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(100, 100, 100, 0.4) !important;
+}
+
+::-webkit-scrollbar-thumb:active {
+  background-color: rgba(191, 191, 191, 0.3) !important;
+}
+
+::-webkit-scrollbar,
+::-webkit-scrollbar-corner,
+::-webkit-scrollbar-track {
+  background-color: rgba(0, 0, 0, .05) !important;
+}
+
+::-webkit-scrollbar-track:vertical {
+  box-shadow: inset 1px 0 0 0 var(--separator);
+}
+
