@@ -312,7 +312,6 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
   width: 95%;
   position: absolute;
   left: 0%;
-  height: inherit;
   content: ' ';
   float: right;
   background: rgba(21, 125, 251, .5);
