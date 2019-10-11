@@ -275,6 +275,7 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
 .ace_gutter-cell.ace_breakpoint:after {
   visibility: visible;
   width: 95%;
+  height: 17px;
   position: absolute;
   left: 0%;
   height: inherit;
@@ -290,6 +291,7 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
 .ace_gutter-cell.ace_inactive-breakpoint:after {
   visibility: visible;
   width: 95%;
+  height: 17px;
   position: absolute;
   left: 0%;
   height: inherit;
