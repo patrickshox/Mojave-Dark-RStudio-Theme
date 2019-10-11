@@ -295,6 +295,7 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
 .ace_gutter-cell.ace_breakpoint:after {
   visibility: visible;
   width: 95%;
+  height: 17px;
   position: absolute;
   left: 0%;
   content: ' ';
@@ -309,6 +310,7 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
 .ace_gutter-cell.ace_inactive-breakpoint:after {
   visibility: visible;
   width: 95%;
+  height: 17px;
   position: absolute;
   left: 0%;
   content: ' ';
@@ -1486,4 +1488,5 @@ span.ace_paren.ace_keyword.ace_operator {
 ::-webkit-scrollbar-track:vertical {
   box-shadow: inset 1px 0 0 0 var(--separator);
 }
+
 
