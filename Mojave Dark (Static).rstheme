@@ -1441,3 +1441,4 @@ span.ace_paren.ace_keyword.ace_operator {
 .rstudio-themes-flat.rstudio-themes-dark-menus .rstudio-themes-scrollbars.GD15MCFCEVB ::-webkit-scrollbar-thumb {
   background: rgb(35, 35, 35);
 }
+
