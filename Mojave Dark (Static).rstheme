@@ -512,7 +512,7 @@ select {
 }
 
 /*various text-type fields in options*/
-table.GD15MCFCI2.GD15MCFCF2, select.gwt-ListBox.GD15MCFCNCB, .gwt-TextBox, input.gwt-TextBox.gwt-TextBox-readonly, .GD15MCFCFGD, .GD15MCFCNND, .GD15MCFCIMD, .GD15MCFCDND, .GD15MCFCAK.GD15MCFCOJ .gwt-Textbox, .gwt-DialogBox input[type="text"], select.gwt-ListBox.GD15MCFCBBB {
+table.GD15MCFCI2.GD15MCFCF2, select.gwt-ListBox.GD15MCFCNCB, .gwt-TextBox, input.gwt-TextBox.gwt-TextBox-readonly, .GD15MCFCFGD, .GD15MCFCNND, .GD15MCFCIMD, .GD15MCFCDND, .GD15MCFCAK.GD15MCFCOJ .gwt-Textbox, .gwt-DialogBox input[type="text"], select.gwt-ListBox.GD15MCFCBBB, .GD15MCFCHHB {
   background: rgb(41,44,46) !important;
   border: none;
   border-radius: 3px;
@@ -1371,9 +1371,9 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAcCAYAAAAAwr0iAAABh
     color: white;
 }
 
-.GD15MCFCD3:hover {
+.GD15MCFCD3:hover, .GD15MCFCD3:hover .GD15MCFCO2 {
   background: linear-gradient(311deg, rgba(18,101,200,1) 0%, rgba(19,105,208,1) 100%) !important;
-  color: white;
+  color: white !important;
 }
 
 .GD15MCFCOMC div {
