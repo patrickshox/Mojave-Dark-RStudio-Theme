@@ -5,7 +5,7 @@
 ### Dark styles across the entire IDE, not just the editor:
 <img src="https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/DarkPanels.png" class="box-shadow-large p-3">
 
-### Dynamic darkening of plots and markdown:
+### *(Optional)* Dynamic darkening of plots and markdown:
 
 Plot (white to alpha)             |  Markdown (invert colors)
 :-------------------------:|:-------------------------:
