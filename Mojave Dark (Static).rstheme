@@ -67,7 +67,7 @@
 
 
 /*Misc Borders*/
-.rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCH3C,.rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCH3C .GD15MCFCN2C, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCJDD td.GD15MCFCIDD,.rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCJDD td.GD15MCFCEDD,.rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCJDD td.GD15MCFCBED,.rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCJDD .GD15MCFCPCD, .rstudio-themes-flat .rstudio-themes-dark-grey .dataGridHeader, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_minimizedWindowObject>div:last-child, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_toolbarWrapper, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCKV.GD15MCFCPO div.GD15MCFCMO .GD15MCFCIS, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCKV.GD15MCFCPO {
+.rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCH3C,.rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCH3C .GD15MCFCN2C, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCJDD td.GD15MCFCIDD,.rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCJDD td.GD15MCFCEDD,.rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCJDD td.GD15MCFCBED,.rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCJDD .GD15MCFCPCD, .rstudio-themes-flat .rstudio-themes-dark-grey .dataGridHeader, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_minimizedWindowObject>div:last-child, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_toolbarWrapper, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCKV.GD15MCFCPO div.GD15MCFCMO .GD15MCFCIS, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCKV.GD15MCFCPO, #rsGridData_info {
   border-color: rgb(50,50,53) !important;
   border-bottom-color: rgb(73,75,75) !important;
 }
@@ -154,7 +154,7 @@ table.GD15MCFCBMB {
 }
 
 /* active tabs*/
-.rstudio-themes-flat .rstudio-themes-dark-grey .rstudio-themes-background, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_toolbarWrapper, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelTabs .gwt-TabLayoutPanelTab-selected table.rstheme_tabLayoutCenter, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_secondaryToolbar, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCKV.GD15MCFCPO div.GD15MCFCMO .GD15MCFCIS, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelContent, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanel, .GD15MCFCCTC, .rstheme_toolbarWrapper table.GD15MCFCJU  {
+.rstudio-themes-flat .rstudio-themes-dark-grey .rstudio-themes-background, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_toolbarWrapper, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelTabs .gwt-TabLayoutPanelTab-selected table.rstheme_tabLayoutCenter, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_secondaryToolbar, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCKV.GD15MCFCPO div.GD15MCFCMO .GD15MCFCIS, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelContent, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanel, .GD15MCFCCTC, .rstheme_toolbarWrapper table.GD15MCFCJU, .rstudio-themes-flat.rstudio-themes-dark-grey #rsGridData_info, .rstudio-themes-flat.rstudio-themes-dark-grey th, .rstudio-themes-flat.rstudio-themes-dark-grey td.first-child, .rstudio-themes-flat.rstudio-themes-dark-grey table.dataTable thead th  {
   background: rgb(49,50,51) !important;
   color: white !important;
 }
@@ -1369,6 +1369,11 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAcCAYAAAAAwr0iAAABh
   border: none;
 }
 
+/* data viewer table borders */
+.rstudio-themes-flat.rstudio-themes-dark-grey table.dataTable tbody td, .rstudio-themes-flat.rstudio-themes-dark-grey table.dataTable thead th {
+  border-color: rgb(38,39,39)
+}
+
 /* New Project Styles*/
 .GD15MCFCD3 {
     background: rgb(44,45,47) !important;
@@ -1396,8 +1401,8 @@ span.ace_paren.ace_keyword.ace_operator {
 }
 
 
-/*autofill menu descriptions*/
-.GD15MCFCEVB {
+/*autofill menu descriptions and autocompletion options*/
+.GD15MCFCEVB, #rstudio_popup_completions {
   background-color: rgb(53,53,53) !important;
   color: white !important;
   box-shadow: -1px 1px 5px black;
