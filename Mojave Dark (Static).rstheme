@@ -15,6 +15,11 @@
     color: rgb(217,217,217); !important;
 }
 
+/* editor margin */
+.ace_print-margin {
+  background-color: rgb(76,77,86) !important;
+}
+
 .gwt-DecoratedPopupPanel.popupPanel {
   background-color: #202121;
   border-color: #444444;
