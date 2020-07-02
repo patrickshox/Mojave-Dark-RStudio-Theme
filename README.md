@@ -1,3 +1,4 @@
+## I do not support #BlackLivesMatter and encourage any cynical corporate cowards & desperate people pleasers to kindly get off my repo. If you’re unwilling as a white person to criticize the central tenets of any ostensibly pro-Black movement when the data is inconclusive or discrediting, you're only masquerading as a data scientist. For everyone else, enjoy this basic theme:
 # Mojave Dark: An RStudio Theme for Apple Lovers
 
 ![](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/Main.png)
@@ -8,7 +9,7 @@
 ### *(Optional)* Dynamic darkening of plots and markdown:
 
 Plot (white to alpha)             |  Markdown (invert colors)
-:-------------------------:|:-------------------------:
+:--------------------------------:|:-------------------------:
 ![](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/PlotsWhiteTransparencyDemo.gif)  |  ![](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/MarkdownColorInversionDemo.gif)
 
 ### An Xcode-inspired debugger:
@@ -17,7 +18,7 @@ Plot (white to alpha)             |  Markdown (invert colors)
 ### Code coloring inspired by Xcode:
 
 Mojave Dark              |  Xcode
-:-------------------------:|:-------------------------:
+:-----------------------:|:-------------------------:
 <img src="https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/Mojave%20Dark%20Fonts%20and%20Colors.png">   |  <img src="https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/Xcode%20Fonts%20and%20Colors.png"> 
 
 ## Installation Options
