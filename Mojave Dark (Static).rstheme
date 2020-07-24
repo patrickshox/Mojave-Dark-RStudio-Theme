@@ -36,11 +36,6 @@
     background-color: inherit;
 }
 
-/* Change... button in Packages > Management */
-td.GGBOEFPDI1 div.GGBOEFPDJ1 {
-  color: black !important;
-}
-
 /*Dropdown menus for the buttons on the home page ie not selects in settings*/
 .gwt-DecoratedPopupPanel.themedPopupPanel .popupMiddleCenter {
   background-color: rgb(59,59,59) !important;
@@ -628,6 +623,11 @@ iframe.gwt-Frame {
 
 .GD15MCFCFK.gwt-Label, .gwt-TabLayoutPanelContentContainer td {
   color: white !important;
+}
+
+/* Change... button in Packages > Management */
+td.GGBOEFPDI1 div.GGBOEFPDJ1 {
+  color: black !important;
 }
 
 /*hyperlinks at the bottom of some of the settings and in R Help and file links in commit page */
