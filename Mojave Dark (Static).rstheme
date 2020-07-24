@@ -572,19 +572,19 @@ table.GD15MCFCFK.GD15MCFCLJ, .GD15MCFCJ2.GD15MCFCNQ.GD15MCFCE2 {
 
 /* unselected buttons at top of dialog*/
 
-div.gwt-TabLayoutPanelTab.GD15MCFCH {
+div.gwt-TabLayoutPanelTab.GGBOEFPDH {
   background: linear-gradient(0deg, rgba(39,39,39,1) 0%, rgba(45,45,45,1) 100%);
   color: rgb(160, 160, 160) !important;
   border-color: rgba(96,96,97) !important;
 }
 
-div.gwt-TabLayoutPanelTab.GD15MCFCH:hover {
+div.gwt-TabLayoutPanelTab.GGBOEFPDH:hover {
   background: linear-gradient(0deg, rgba(36,36,36,1) 0%, rgba(41,41,41,1) 100%);
   color: rgb(160, 160, 160) !important;
   border-color: rgba(96,96,97) !important;
 }
 
-div.gwt-TabLayoutPanelTab.GD15MCFCH .gwt-Label {
+div.gwt-TabLayoutPanelTab.GGBOEFPDH .gwt-Label {
   color: rgb(160, 160, 160) !important;
 }
 
