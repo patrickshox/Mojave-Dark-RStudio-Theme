@@ -560,7 +560,7 @@ table.GD15MCFCFK.GD15MCFCLJ, .GD15MCFCJ2.GD15MCFCNQ.GD15MCFCE2 {
 
 
 /*selected button at top of options dialog*/
-.gwt-TabLayoutPanelTab.GD15MCFCH.gwt-TabLayoutPanelTab-selected, table.GD15MCFCJW.GD15MCFCLW {
+.gwt-TabLayoutPanelTab.GD15MCFCH.gwt-TabLayoutPanelTab-selected, table.GD15MCFCJW.GD15MCFCLW, .GGBOEFPDGP .gwt-TabLayoutPanelTab-selected {
     background: linear-gradient(0deg, rgba(60,60,60,1) 0%, rgba(55,55,55,1) 100%) !important;
     color: white !important;
     border-color: rgba(96,96,97) !important;
