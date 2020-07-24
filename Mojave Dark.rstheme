@@ -630,6 +630,10 @@ iframe.gwt-Frame {
     border: none;
 }
 
+.GGBOEFPDNNB td.GGBOEFPDNNB {
+  background-color: rgb(29,30,31)
+}
+
 .GD15MCFCO0 {
     color: white !important;
 }
