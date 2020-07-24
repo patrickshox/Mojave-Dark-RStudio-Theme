@@ -583,7 +583,7 @@ table.GD15MCFCFK.GD15MCFCLJ, .GD15MCFCJ2.GD15MCFCNQ.GD15MCFCE2 {
 
 
 /*selected button at top of options dialog*/
-.gwt-TabLayoutPanelTab.GD15MCFCH.gwt-TabLayoutPanelTab-selected, table.GD15MCFCJW.GD15MCFCLW {
+.gwt-TabLayoutPanelTab.GD15MCFCH.gwt-TabLayoutPanelTab-selected, table.GD15MCFCJW.GD15MCFCLW, .GGBOEFPDGP .gwt-TabLayoutPanelTab-selected {
     background: linear-gradient(0deg, rgba(60,60,60,1) 0%, rgba(55,55,55,1) 100%) !important;
     color: white !important;
     border-color: rgba(96,96,97) !important;
@@ -595,19 +595,19 @@ table.GD15MCFCFK.GD15MCFCLJ, .GD15MCFCJ2.GD15MCFCNQ.GD15MCFCE2 {
 
 /* unselected buttons at top of dialog*/
 
-div.gwt-TabLayoutPanelTab.GD15MCFCH {
+div.gwt-TabLayoutPanelTab.GGBOEFPDH {
   background: linear-gradient(0deg, rgba(39,39,39,1) 0%, rgba(45,45,45,1) 100%);
   color: rgb(160, 160, 160) !important;
   border-color: rgba(96,96,97) !important;
 }
 
-div.gwt-TabLayoutPanelTab.GD15MCFCH:hover {
+div.gwt-TabLayoutPanelTab.GGBOEFPDH:hover {
   background: linear-gradient(0deg, rgba(36,36,36,1) 0%, rgba(41,41,41,1) 100%);
   color: rgb(160, 160, 160) !important;
   border-color: rgba(96,96,97) !important;
 }
 
-div.gwt-TabLayoutPanelTab.GD15MCFCH .gwt-Label {
+div.gwt-TabLayoutPanelTab.GGBOEFPDH .gwt-Label {
   color: rgb(160, 160, 160) !important;
 }
 
@@ -636,13 +636,21 @@ iframe.gwt-Frame {
   border-radius: 3px 3px 0px 0px;
 }
 
-.GGBOEFPDGK {
-  background-color: rgb(19,19,19);
+.GGBOEFPDGK, div.gwt-TabLayoutPanelContentContainer {
+  background-color: rgb(24,24,25);
+}
+.GGBOEFPDNNB td.GGBOEFPDNNB {
+  background-color: rgb(29,30,31)
 }
 
 .GD15MCFCFK.gwt-Label, .gwt-TabLayoutPanelContentContainer td {
   color: white !important;
 }
+
+td.GGBOEFPDI1 div.GGBOEFPDJ1 {
+  color: black !important;
+}
+
 
 /*hyperlinks at the bottom of some of the settings and in R Help and file links in commit page */
 .rstudio-HyperlinkLabel, gwt-Anchor {
@@ -1409,7 +1417,7 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAcCAYAAAAAwr0iAAABh
 
 .GD15MCFCD3:hover, .GD15MCFCD3:hover .GD15MCFCO2 {
   background: linear-gradient(311deg, rgba(18,101,200,1) 0%, rgba(19,105,208,1) 100%) !important;
-  color: white;
+  color: white !important;
 }
 
 .GD15MCFCOMC div {
