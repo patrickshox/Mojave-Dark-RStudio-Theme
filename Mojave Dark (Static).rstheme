@@ -178,7 +178,7 @@ table.GD15MCFCBMB {
 }
 
 /*empty tab space*/
-.rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelTabs, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_minimizedWindowObject .rstheme_center, .rstudio-themes-flat .rstudio-themes-dark.rstudio-themes-scrollbars ::-webkit-scrollbar-track, .rstudio-themes-flat .rstudio-themes-dark.rstudio-themes-scrollbars ::-webkit-scrollbar-corner, .rstudio-themes-flat .rstudio-themes-dark.rstudio-themes-scrollbars::-webkit-scrollbar-track, .rstudio-themes-flat .rstudio-themes-dark.rstudio-themes-scrollbars::-webkit-scrollbar-corner, .rstudio-themes-flat.rstudio-themes-dark-menus .rstudio-themes-scrollbars ::-webkit-scrollbar-track, .rstudio-themes-flat.rstudio-themes-dark-menus .rstudio-themes-scrollbars ::-webkit-scrollbar-corner {
+.rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelTabs, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_minimizedWindowObject .rstheme_center, .rstudio-themes-flat .rstudio-themes-dark.rstudio-themes-scrollbars ::-webkit-scrollbar-track, .rstudio-themes-flat .rstudio-themes-dark.rstudio-themes-scrollbars ::-webkit-scrollbar-corner, .rstudio-themes-flat .rstudio-themes-dark.rstudio-themes-scrollbars::-webkit-scrollbar-track, .rstudio-themes-flat .rstudio-themes-dark.rstudio-themes-scrollbars::-webkit-scrollbar-corner, .rstudio-themes-flat.rstudio-themes-dark-menus .rstudio-themes-scrollbars ::-webkit-scrollbar-track, .rstudio-themes-flat.rstudio-themes-dark-menus .rstudio-themes-scrollbars ::-webkit-scrollbar-corner, .rstudio-themes-flat .rstudio-themes-dark-grey .GGBOEFPDDS {
   background: rgba(37,37,37);
   color: rgb(160, 160, 160)
 }
