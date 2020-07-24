@@ -613,6 +613,10 @@ iframe.gwt-Frame {
   border-radius: 3px 3px 0px 0px;
 }
 
+.GGBOEFPDGK {
+  background-color: rgb(55,57,48);
+}
+
 .GD15MCFCFK.gwt-Label, .gwt-TabLayoutPanelContentContainer td {
   color: white !important;
 }
