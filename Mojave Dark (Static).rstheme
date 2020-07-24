@@ -700,6 +700,10 @@ div .gwt-Label.GD15MCFCF3 {
 
 }
 
+.GGBOEFPDLJ {
+  background: rgb(0,88,208)
+}
+
 .ace_invalid {
   color: #F8F8F0;
   background-color: #F92672;
