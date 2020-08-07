@@ -112,6 +112,11 @@ th.GGBOEFPDKAC {
     color: rgb(218, 218, 218);
 }
 
+/*remove border from odd package updae rows*/
+.GGBOEFPDFBC {
+    border: none !important;
+}
+
 /*update packages blank area*/
 .GD15MCFCC4B, .GD15MCFCEOB {
     background: rgb(55,57,58);
