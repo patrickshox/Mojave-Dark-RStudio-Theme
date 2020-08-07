@@ -91,13 +91,21 @@ div.GGBOEFPDDW {
 }
 
 /*Update Packages Table column names:*/
-th.GD15MCFCK4B {
+th.GGBOEFPDKAC {
     background: rgb(49,49,51);
     border-color: rgb(75,75,75);
     color: white;
     border-left: none;
     border-right: none;
 }
+
+/*update packages rows*/
+.GGBOEFPDLBC tr:nth-child(even) {
+    background-color: rgb(44,45,51);
+    border-color: rgb(44,45,51);
+    color: rgb(218, 218, 218);
+}
+
 /*update packages blank area*/
 .GD15MCFCC4B, .GD15MCFCEOB {
     background: rgb(55,57,58);
