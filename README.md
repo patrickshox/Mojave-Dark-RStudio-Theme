@@ -1,4 +1,3 @@
-## I do not support #BlackLivesMatter and encourage any cynical corporate cowards & desperate people pleasers to kindly get off my repo. If you’re unwilling as a white person to criticize the central tenets of any ostensibly pro-Black movement when the data is inconclusive or discrediting, you're only masquerading as a data scientist. For everyone else, enjoy this basic theme:
 # Mojave Dark: An RStudio Theme for Apple Lovers
 
 ![](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/Main.png)
