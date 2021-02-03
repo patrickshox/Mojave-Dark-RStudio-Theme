@@ -1,5 +1,3 @@
-⚠️ I'm currently looking for someone interested in maintaining this project. Email me at keys4safari@gmail.com if you're interested. ⚠️
-
 # Mojave Dark: An RStudio Theme for Apple Lovers
 
 ![](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/Main.png)
