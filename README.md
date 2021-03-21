@@ -1,4 +1,4 @@
-⚠️ I'm currently looking for someone interested in maintaining this project. Email me at keys4safari@gmail.com if you're interested. ⚠️
+⚠️ I'm currently looking for someone interested in maintaining this project. As of now, I am no longer maintaining it. Email me at keys4safari@gmail.com if you're interested. ⚠️
 
 # Mojave Dark: An RStudio Theme for Apple Lovers
 
