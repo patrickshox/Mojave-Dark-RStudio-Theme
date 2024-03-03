@@ -1493,3 +1493,15 @@ span.ace_paren.ace_keyword.ace_operator {
   background: rgb(35, 35, 35);
 }
 
+
+.GNVWDDMDPIC, .GNVWDDMDBKC, .GNVWDDMDBJC, .GNVWDDMDEL {
+  background-color: inherit;
+} 
+
+.GNVWDDMDCJC, .GNVWDDMDCKC {
+    border: 2px solid grey;
+}
+
+.GNVWDDMDM3, .GNVWDDMDN3, .GNVWDDMDP3, .GNVWDDMDK3 {
+    color: grey;
+}
