@@ -801,7 +801,7 @@ div .gwt-Label.GD15MCFCF3 {
 .ace_bracket {
   margin: 0 !important;
   border: 0 !important;
-  background-color: rgb(254, 249, 55);
+  background-color: rgb(127, 125, 55);
 }
 .ace_marker-layer .ace_foreign_line {
   position: absolute;
