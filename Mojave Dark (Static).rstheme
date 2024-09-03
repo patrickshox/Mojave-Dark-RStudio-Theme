@@ -1505,3 +1505,23 @@ span.ace_paren.ace_keyword.ace_operator {
 .GNTYACMBM3, .GNTYACMBN3, .GNTYACMBP3, .GNTYACMBK3 {
     color: grey;
 }
+
+.GNTYACMBHK {
+    background: #728594;
+}
+
+.GNTYACMBMP .gwt-TabLayoutPanelTab {
+    background: grey;
+}
+
+.GNTYACMBMP .gwt-TabLayoutPanelTab-selected {
+    background: darkgrey;
+}
+
+button.gwt-Button-DialogAction>table:first-child, button.GNTYACMBE2>table:first-child {
+    background: grey;
+}
+
+.GNTYACMBDUB td.GNTYACMBDUB {
+    background-color: darkgrey;
+}
