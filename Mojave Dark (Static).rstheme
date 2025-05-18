@@ -1494,34 +1494,34 @@ span.ace_paren.ace_keyword.ace_operator {
 }
 
 
-.GNTYACMBBJC, .GNTYACMBDKC, .GNTYACMBDJC, .GNTYACMBEL {
+.GPWVOE5CEKC, .GPWVOE5CGLC, .GPWVOE5CGKC, .GPWVOE5CPL {
   background-color: inherit;
 } 
 
-.GNTYACMBEJC, .GNTYACMBEKC {
+.GPWVOE5CHKC, .GPWVOE5CHLC {
     border: 2px solid grey;
 }
 
-.GNTYACMBM3, .GNTYACMBN3, .GNTYACMBP3, .GNTYACMBK3 {
+.GPWVOE5CM4, .GPWVOE5CN4, .GPWVOE5CP4, .GPWVOE5CK4 {
     color: grey;
 }
 
-.GNTYACMBHK {
+.GPWVOE5CCL {
     background: #728594;
 }
 
-.GNTYACMBMP .gwt-TabLayoutPanelTab {
+.GPWVOE5CHQ .gwt-TabLayoutPanelTab {
     background: grey;
 }
 
-.GNTYACMBMP .gwt-TabLayoutPanelTab-selected {
+.GPWVOE5CHQ .gwt-TabLayoutPanelTab-selected {
     background: darkgrey;
 }
 
-button.gwt-Button-DialogAction>table:first-child, button.GNTYACMBE2>table:first-child {
+button.gwt-Button-DialogAction>table:first-child, button.GPWVOE5CE3>table:first-child {
     background: grey;
 }
 
-.GNTYACMBDUB td.GNTYACMBDUB {
+.GPWVOE5CEVB td.GPWVOE5CEVB {
     background-color: darkgrey;
 }
